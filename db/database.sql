@@ -12,3 +12,9 @@ CREATE TABLE employee (
 
 select * from employee;
 
+INSERT INTO employee VALUES
+  (1, 'Bryant', 15000),
+  (2, 'Felix', 1000),
+  (3, 'Victor', 20000),
+  (4, 'Braylin', 6000);
+
